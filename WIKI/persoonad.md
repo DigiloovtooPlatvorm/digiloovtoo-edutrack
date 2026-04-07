@@ -72,4 +72,4 @@ Tahab edukalt lõpetada põhikooli.
 "9. klassis on nii palju asju, mida peab meeles pidama või milleks valmistuda. Kõik info igalpool laiali- tahaks saada selgust."
 
 ### Pilt
-
+[![Rolfi persoona](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/115fb87d04e817a78d596388d8f6a7098039932d/WIKI/User%20Persona%20Worksheet%20in%20White%20Olive%20Green%20Style%20(1).png)]
