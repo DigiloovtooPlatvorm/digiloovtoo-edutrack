@@ -40,7 +40,7 @@ Tahab saada häid hindeid ja olla koolis edukas.
 
 ### Pilt
 
-
+![Mari persoona](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/6acc4dbeb772c0a7a8ecd1d38ed9c54588ff6cf0/WIKI/User%20Persona%20Worksheet%20in%20White%20Olive%20Green%20Style.png)
 
 
 ## Persoona 2
@@ -72,4 +72,4 @@ Tahab edukalt lõpetada põhikooli.
 "9. klassis on nii palju asju, mida peab meeles pidama või milleks valmistuda. Kõik info igalpool laiali- tahaks saada selgust."
 
 ### Pilt
-[![Rolfi persoona](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/115fb87d04e817a78d596388d8f6a7098039932d/WIKI/User%20Persona%20Worksheet%20in%20White%20Olive%20Green%20Style%20(1).png)]
+![Rolfi persoona](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/115fb87d04e817a78d596388d8f6a7098039932d/WIKI/User%20Persona%20Worksheet%20in%20White%20Olive%20Green%20Style%20(1).png)
