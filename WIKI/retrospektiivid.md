@@ -8,6 +8,7 @@ Retrospektiiv on lühike tagasivaade sellele, kuidas töö läks ja mida võiks 
 
 ---
 
+
 ## Retrospektiiv 1
 
 ### Kuupäev
@@ -29,6 +30,7 @@ Retrospektiiv on lühike tagasivaade sellele, kuidas töö läks ja mida võiks 
 ### Mida õppisime?
 - Kasutaja vajaduste mõistmine on väga oluline
 - Hea idee peab lahendama päris probleemi
+
 
 
 ## Retrospektiiv 2
@@ -54,6 +56,7 @@ Retrospektiiv on lühike tagasivaade sellele, kuidas töö läks ja mida võiks 
 - Kasutaja peab kohe aru saama, mida teha
 
 
+
 ## Retrospektiiv 3
 
 ### Kuupäev
@@ -75,6 +78,8 @@ Retrospektiiv on lühike tagasivaade sellele, kuidas töö läks ja mida võiks 
 ### Mida õppisime?
 - Terminid peavad olema kasutajale arusaadavad
 - Visuaalne selgus (värvid, paigutus) on väga oluline
+
+
 
 ## Retrospektiiv 4
 
