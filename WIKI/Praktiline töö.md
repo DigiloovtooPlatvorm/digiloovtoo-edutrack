@@ -2,31 +2,16 @@
 
 Hetkeolukorra kaardistus
 Olemasolevad rakendused katavad üksikuid funktsioone (nt planeerimine või märkmete tegemine), kuid puudub lihtne ja õpilasele suunatud lahendus, mis koondaks automaatselt kooliinfo, ajaplaneerimise ja õppimise ühte keskkonda.
-|Arendusnõue|MyStudyLife|Notion|
-1. Automaatne andmete sünk (Stuudium)
-❌ puudub
-❌ puudub
-2. Kodutööde haldamine (kanban)
-❌ puudub
-✔️ olemas
-3. Ühtne ülevaade (dashboard)
-✔️ olemas
-✔️ olemas
-4. Kalender ja tunniplaan
-✔️ olemas
-✔️ olemas (seadistatav)
-5. Meeldetuletused
-✔️ olemas
-✔️ olemas
-6. Õppimise toetamine (flashcardid, testid)
-❌ puudub
-✔️ võimalik (ise luues)
-7. Lihtne ja kiire kasutus
-✔️ väga lihtne
-⚠️ pigem keeruline
-8. Kõik ühes kohas
-⚠️ osaliselt
-✔️ olemas
+| Arendusnõue | MyStudyLife | Notion |
+|---|---|---|
+| 1. Automaatne andmete sünk (Stuudium) | ❌ puudub |❌ puudub |
+| 2. Kodutööde haldamine (kanban) | ❌ puudub | ✔️ olemas |
+| 3. Ühtne ülevaade (dashboard) | ✔️ olemas |  ✔️ olemas |
+| 4. Kalender ja tunniplaan | ✔️ olemas | ✔️ olemas (seadistatav) |
+| 5. Meeldetuletused | ✔️ olemas | ✔️ olemas |
+| 6. Õppimise toetamine (flashcardid, testid) | ❌ puudub | ✔️ võimalik (ise luues) |
+| 7. Lihtne ja kiire kasutus | ✔️ väga lihtne | ⚠️ pigem keeruline |
+| 8. Kõik ühes kohas | ⚠️ osaliselt | ✔️ olemas |
 
 
 **Sprinte on digiloovtöö jooksul neli:**  
