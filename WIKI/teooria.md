@@ -1,20 +1,11 @@
 # Teooria
 
-Teooria dokumendis saate kirjeldada seda, mida olete teema kohta uurinud. See näitab, et sa mõistad antud teemat ning oskad seda ka teoreetiliselt selgitada.  
-**Teooria alla võivad kuuluda:**
-- Mõisted ja definitsioonid
-- Taust ja areng (nt kuidas see valdkond on arenenud, kas on uusi trende)
-- Tehnoloogiate selgitus (nt milliseid programme kasutatakse ning kuidas need töötavad)
-- Seos teie tööga (kuidas seostub teooria teie praktilise tööga)
-- Allikad
-
-
 Digiloovtöö keskmes on õppimist toetava mobiilirakenduse loomine, mille eesmärk on aidata õpilastel oma õpitegevusi paremini planeerida ja hallata. Projekti teoreetiline alus tugineb enesejuhtiva õppimise, ajaplaneerimise, kasutajakeskse disaini ning süsteemse arendusprotsessi põhimõtetele.
 Enesejuhitud õppimine on protsess, kus õpilased planeerivad ise, jälgivad, reguleerivad ja reflekteerivad enda õpet ja õppimist (Kullo, 2023). Barry J. Zimmerman väidab, et tegevused mis on seotud aktiivse osalemise, koostöö ja õppimisega, toetavad õpilase võimet iseseisvalt oma õppimist reguleerida (Veskimäe, 2025). Õppimise äpp toetab enesejuhtivat õppimist läbi selle, et pakub võimalusi ülesannete planeerimiseks, tähtaegade jälgimiseks ning õppimise organiseerimiseks.
 Projekti oluline osa on kasutajakeskne disain (user-centered design), mille puhul lähtutakse lõppkasutaja vajadustest ja ootustest (Abras et al. , 2004). Norman (2013) rõhutab, et hästi disainitud lahendus peab olema kasutajale intuitiivne ja arusaadav. Selleks kaardistatakse sihtrühm, luuakse persoonad ning analüüsitakse nende vajadusi. Saadud info põhjal sõnastatakse rakenduse nõuded ja funktsionaalsused.
 Kokkuvõttes seob projekt teoreetilised teadmised praktilise rakendusega, võimaldades õppijal luua reaalse ja kasutatava digilahenduse. Projekt toetab enesejuhtiva õppimise oskusi pakkudes samal ajal lahendust igapäevasele koolielu probleemile.
 Digilahenduse arendamine toimub struktureeritud protsessina, mille kavandamisel saab kasutada ADDIE mudelit. ADDIE mudel koosneb viiest etapist: analüüs, disain, arendus, rakendamine ja hindamine. Selline süsteemne lähenemine aitab projekti loogiliselt üles ehitada ning toetab õppija arusaamist arendusprotsessist (Peterson, 2003).
-Digiloovtöö koosneb viiest etapist (ADDIE), millest
+Digiloovtöö koosneb viiest etapist (ADDIE), millest:
 - A – Analüüsime olukorda: selgitame välja, millised on õpilaste vajadused õppimise planeerimisel, millised probleemid esinevad (nt kodutööde unustamine, ajapuudus) ning milliseid olemasolevaid õppimise äppe juba kasutatakse.
 - D – Disainime lahenduse: kavandame äpi funktsioonid ja kasutajaliidese (nt Figma abil) ning küsime loodud lahenduse kohta tagasisidet sihtrühmalt.
 - D – Arendame (Develop): loome äpi prototüübi või toimiva lahenduse, määrame tööetapid, jaotame ülesanded ning paneme paika, kuidas projekti edukust hinnata.
