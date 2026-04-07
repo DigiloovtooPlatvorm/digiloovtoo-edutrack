@@ -83,10 +83,10 @@ Peamiste parendusettepanekutena toodi välja:
 - võiks olla võimalus valida erinevaid vaateid kalendris (et mida näitab)
 - õppimise funktsioon võiks olla veel lihtsam ja mängulisem
 
-#HI-FI esialgne prototüüp
+# HI-FI esialgne prototüüp
 Link: https://drive.google.com/drive/folders/1aVtZC2UynikFwoZwN_StR0gCfs4OaTgo?usp=sharing 
 
-##HI-Fi prototüübi esialgne tagasiside
+## HI-Fi prototüübi esialgne tagasiside
 - „Kanban“ asemel kasutada „Töövoog“
 - Ainete nimed on liiga pikad. kasutada lühendeid (nt:
         - matemaatika → mat
@@ -103,5 +103,5 @@ Peamised arendusvajadused on seotud:
 - visuaalse selguse parandamisega (värvid, lühendid)
 - kalendri parema loetavusega
 
-#HI-FI valmis protoüüp
+# HI-FI valmis protoüüp
 Link valmis prototüübile: https://blotch-paste-44971541.figma.site 
