@@ -13,7 +13,7 @@ Persoona on kasutajagruppi esindav tüüpiline isik. Persoona ei pea olema päri
 ## Persoona 1
 
 ### Nimi
-Mari
+Mari Ann Kuuskmägi
 
 ### Vanus
 14
@@ -22,13 +22,15 @@ Mari
 8.klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
 
 ### Vajadused
-Vajab selget ja lihtsat keskkonda, kus kõik õppematerjalid on ühes kohas. Vajab juhiseid, mis on kergesti arusaadavad.
+Vajab selget ja lihtsat keskkonda, kus oleks kõik temale vajalik info ühes kohas (kodutööd, tunniplaan, kalender ning lihtsamad vahendid õppimise kordamiseks).
 
-### Ootused
-Soovib leida vajalikud õppematerjalid kiiresti ja ilma segaduseta.
+### Ootused, eesmärgid
+Soovib hoida kõik koolitööd korras ja õigeks ajaks tehtud, saada parem ülevaade oma ülesannetest ning vähendada stressi ja viimase hetkel õppimist.
 
 ### Probleemid
-Õppematerjalid on erinevates keskkondades ja neid on raske üles leida. Vahel ei saa aru, mida täpselt tegema peab.
+- kardab unustada kodutöid või tähtaegu
+- tunneb stressi, kui ülesanded kogunevad
+- muretseb, et ei saa kõike õigeks ajaks valmis
 
 ### Motivatsioon
 Tahab saada häid hindeid ja olla koolis edukas.
@@ -38,7 +40,7 @@ Tahab saada häid hindeid ja olla koolis edukas.
 
 ### Pilt
 
-<img width="300" height="1536" alt="ChatGPT Image Apr 6, 2026, 06_23_49 PM" src="https://github.com/user-attachments/assets/5d69d311-6f40-4d10-a68d-fd57869207c8" />
+<img width="300" height="1536" alt="ChatGPT Image Apr 6, 2026, 06_23_49 PM" src="[Uploading User Persona Worksheet in White Olive Green Style.html…]()" />
 
 
 ## Persoona 2
