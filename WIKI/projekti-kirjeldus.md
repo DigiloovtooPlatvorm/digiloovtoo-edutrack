@@ -49,7 +49,7 @@ Projekti teostamiseks võiks vaja minna järgmisi vahendeid:
 - **Projektijuht** – korraldab tööd, suhtleb juhendajaga, vastutab projekti terviku eest, esitleb lahendust, koostab teoreetilise osa (Kadri)
 - **analüüsija** – viib läbi küsitlused, kaardistab kasutajate vajadused, tegeleb nõuete analüüsiga (Markus)
 - **testija** – koostab hindamiskriteeriumid, kontrollib lahenduse vastavust nõuetele, testib lahendust (Hannah)
-- **sisulooja ** – arendab lahendust ning loob visuaalse disaini (Märt)
+- **sisulooja** – arendab lahendust ning loob visuaalse disaini (Märt)
 
 
 ## Võimalikud riskid
