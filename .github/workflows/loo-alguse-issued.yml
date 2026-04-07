@@ -1,0 +1,75 @@
+name: Loo alguse issue'd
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-starter-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Loo standard issue'd
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh issue create --repo "$REPO" \
+            --title "Projekti kirjelduse täitmine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Täida faili `projekti-kirjeldus.md` põhiandmed, et projekti eesmärk, sisu ja oodatav tulemus oleksid selgelt sõnastatud.
+
+          ## Miks see on vajalik
+
+          Projekti kirjeldus annab ülevaate töö eesmärgist, sihtrühmast ja peamistest tööetappidest ning aitab hoida projekti fookust.
+
+          ## Tegevused
+
+          - täida töö pealkiri
+          - täida autor(id) ja juhendaja
+          - sõnasta eesmärk ja lühikirjeldus
+          - kirjelda sihtrühm ja oodatav tulemus
+          - lisa tähtsamad tegevused või tööetapid
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui fail `projekti-kirjeldus.md` on sisuliselt täidetud.
+
+          ## Lisainfo
+
+          See on üks esimestest ülesannetest, sest enne töö edasiarendamist peab projekti põhiloogika olema selgelt kirjeldatud.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Projektitahvli seadistamine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Loo GitHub Projects tahvel või kasuta organisatsiooni valmis malli, et projekti ülesandeid oleks võimalik süsteemselt jälgida.
+
+          ## Miks see on vajalik
+
+          Projektitahvel aitab teha töö edenemise nähtavaks ning toetab ülesannete jälgimist kogu projekti vältel.
+
+          ## Tegevused
+
+          - ava repositooriumis Projects vaade
+          - loo uus projektitahvel või kasuta organisatsiooni valmis malli
+          - kui lood uue projektitahvli, lisa veerud „Plaanis”, „Töös”, „Tagasisidestamisel” ja „Valmis”
+          - seo tahvel repositooriumi töökorraldusega
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui projektitahvel on loodud või kasutusele võetud.
+
+          ## Lisainfo
+
+          Kui kasutad organisatsiooni valmis malli, ei ole vaja tahvli struktuuri eraldi seadistada. Kui lood uue tahvli ise, siis veendu, et selles oleksid vähemalt veerud „Plaanis”, „Töös”, „Tagasisidestamisel” ja „Valmis”.
+          EOF
+          )"
