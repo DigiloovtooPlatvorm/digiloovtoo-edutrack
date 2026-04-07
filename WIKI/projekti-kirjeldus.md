@@ -46,10 +46,10 @@ Projekti teostamiseks võiks vaja minna järgmisi vahendeid:
 - GitHub – projekti tööprotsessi dokumenteerimiseks ja haldamiseks.
 
 ## Meeskonna rollid
-**Projektijuht** – korraldab tööd, suhtleb juhendajaga, vastutab projekti terviku eest, esitleb lahendust, koostab teoreetilise osa (Kadri)
-**analüüsija** – viib läbi küsitlused, kaardistab kasutajate vajadused, tegeleb nõuete analüüsiga (Markus)
-**testija** – koostab hindamiskriteeriumid, kontrollib lahenduse vastavust nõuetele, testib lahendust (Hannah)
-**sisulooja ** – arendab lahendust ning loob visuaalse disaini (Märt)
+- **Projektijuht** – korraldab tööd, suhtleb juhendajaga, vastutab projekti terviku eest, esitleb lahendust, koostab teoreetilise osa (Kadri)
+- **analüüsija** – viib läbi küsitlused, kaardistab kasutajate vajadused, tegeleb nõuete analüüsiga (Markus)
+- **testija** – koostab hindamiskriteeriumid, kontrollib lahenduse vastavust nõuetele, testib lahendust (Hannah)
+- **sisulooja ** – arendab lahendust ning loob visuaalse disaini (Märt)
 
 
 ## Võimalikud riskid
