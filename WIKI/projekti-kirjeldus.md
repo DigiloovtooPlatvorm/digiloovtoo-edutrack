@@ -51,6 +51,30 @@ Projekti teostamiseks võiks vaja minna järgmisi vahendeid:
 - **testija** – koostab hindamiskriteeriumid, kontrollib lahenduse vastavust nõuetele, testib lahendust (Hannah)
 - **sisulooja** – arendab lahendust ning loob visuaalse disaini (Märt)
 
+## Projekti läbiviimist puudutavad õpiväljundid
+Õpilane:
+- sõnastab digiloovtöö probleemi, eesmärgi ja sihtrühma;
+- loob projekti tegevuskava, sh kavandab oma projekti etapid ja planeerib tööprotsessi;
+- loob projekti edukuse hindamise kriteeriumid;
+- jaotab meeskonnas rollid (nt disainer, arendaja, testija) ja ülesanded;
+- kogub ideid ning analüüsib, milliseid vajadusi õppimise äpp võiks kasutajatel täita;
+- kaardistab sihtrühma (õpilaste) vajadused ja probleemid seoses õppimise planeerimisega;
+- loob vähemalt ühe peamise ja sekundaarse persoona ja kirjeldab nende vajadusi;
+- üldistab kogutud info põhjal äpi nõuded (mida äpp peab tegema);
+- dokumenteerib oma tööprotsessi ja tehtud otsuseid (GitHub wikis);
+- küsib ja kasutab tagasisidet oma idee ning lahenduse arendamisel, sh testib loodud lahendust kasutajatega;
+- esitleb valminud digilahendust ning põhjendab tehtud valikuid;
+- reflekteerib projekti lõpus oma õppimist, panust ja arengut.
+
+## Äpi loomise spetsifikat puudutavad õpiväljundid
+Õpilane:
+- nimetab ja võrdleb erinevaid õppimise äppide lahendusi ning toob välja nende tugevused ja nõrkused;
+- kirjeldab loodava äpi põhifunktsioone ja nende eesmärki;
+- loob äpi kasutajaliidese kavandi (nt Figma abil), sh lisab äppi vähemalt mõned põhifunktsioonid, näiteks ülesannete lisamine, meeldetuletused või õppeülesannete jälgimine;
+- hindab, kas loodud lahendus vastab seatud eesmärgile ja kasutaja vajadustele.
+
+## Lisandväärtus
+Õpilane loob praktilise digilahenduse, mis aitab õpilastel oma õppimist paremini planeerida ja igapäevaseid koolikohustusi hallata. Ta panustab lahendusse, mis toetab kasutajate ajaplaneerimise ja enesejuhtimise oskuste arengut ning aitab vähendada unustatud ülesandeid ja tähtaegu. Õpilane loob äpi, mida saavad kasutada ka teised õpilased, pakkudes seeläbi väärtust laiemale sihtrühmale ning lahendades reaalse koolieluga seotud probleemi.
 
 ## Võimalikud riskid
 Mis võib projekti käigus osutuda keeruliseks?
