@@ -10,7 +10,7 @@ Vajadusel muuda tabelit töö käigus.
 | Etapp 3 | Hi-Fi prototüüp ja testimine | 2 kuud |
 | Etapp 4 | Hindamine ja kaitsmiseks valmistumine | 1,5 kuud |
 | Etapp 5 | Kaitsmine | 1 päev |
-| Kokku |  | circa 8 kuud |
+| Kokku | 5 etappi | circa 8 kuud |
 
 ## Näited võimalikest etappidest
 
