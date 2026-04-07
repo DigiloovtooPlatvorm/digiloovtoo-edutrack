@@ -85,7 +85,12 @@ Peamiste parendusettepanekutena toodi välja:
 - õppimise funktsioon võiks olla veel lihtsam ja mängulisem
 
 # HI-FI esialgne prototüüp
-Link: https://drive.google.com/drive/folders/1aVtZC2UynikFwoZwN_StR0gCfs4OaTgo?usp=sharing 
+Lo-Fi prototüüpi esialgsed visandid:
+- [avaleht](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/b8456a652b20e856c173854980c9871fefda9a70/WIKI/Hi-Fi1.png)
+- [kalender](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/b8456a652b20e856c173854980c9871fefda9a70/WIKI/Hi-Fi2.png)
+- [ülesanded](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/b8456a652b20e856c173854980c9871fefda9a70/WIKI/Hi-Fi3.png)
+- [kanban](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/b8456a652b20e856c173854980c9871fefda9a70/WIKI/Hi-Fi4.png)
+- [õppimine](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/b8456a652b20e856c173854980c9871fefda9a70/WIKI/Hi-Fi5.png)
 
 ## HI-Fi prototüübi esialgne tagasiside
 - „Kanban“ asemel kasutada „Töövoog“
