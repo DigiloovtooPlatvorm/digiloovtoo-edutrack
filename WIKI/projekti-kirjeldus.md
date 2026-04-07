@@ -29,7 +29,14 @@ Põhikooli õpilased (nt 7.–9. klass), kes vajavad tuge õppimise organiseerim
 Projekti tulemusena valmib äpi protoüüp.
 
 ## Projekti peamised osad
-
+1. Probleemi ja eesmärgi sõnastamine- sõnastatakse probleem, mida lahendatakse, ning määratletakse projekti eesmärk ja sihtrühm.
+2. Uuring ja analüüs- kogutakse infot (nt küsitlused), analüüsitakse olemasolevaid lahendusi ning kaardistatakse kasutajate vajadused.
+3. Nõuete määratlemine- sõnastatakse, mida loodav äpp peab tegema (funktsionaalsed nõuded) ning millised on kasutajate ootused.
+4. Disain ja prototüüpimine- luakse kasutajaliidese kavandid (Lo-Fi ja Hi-Fi prototüübid) ning kujundatakse äpi visuaalne lahendus.
+5. Arendus (lahenduse loomine)- valmib äpi toimiv lahendus või prototüüp vastavalt seatud nõuetele.
+6. Testimine ja tagasiside- testitakse lahendust kasutajatega, kogutakse tagasisidet ning tehakse vajalikud parandused.
+7. Dokumenteerimine- kirjeldatakse tööprotsessi, tehtud otsuseid ja tulemusi (nt GitHub keskkonnas).
+8. Esitlemine ja refleksioon- tutvustatakse valminud lahendust ning analüüsitakse oma õppimist, panust ja projekti õnnestumist.
 
 ## Töövahendid
 Projekti teostamiseks võiks vaja minna järgmisi vahendeid:
