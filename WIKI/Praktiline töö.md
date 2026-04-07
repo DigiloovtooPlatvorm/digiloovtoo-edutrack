@@ -28,25 +28,25 @@ Olemasolevad rakendused katavad üksikuid funktsioone (nt planeerimine või mär
     - kõige olulisemad ülesanded
 - Kasutaja saab kiiresti aru, mida peab tegema
 4. Kalender ja tunniplaan
-Äpp kuvab tunniplaani
-Kalender koondab:
-kodutööd
-tunnid
-huviringid ja muud sündmused
+- Äpp kuvab tunniplaani
+- Kalender koondab:
+        - kodutööd
+        - tunnid
+        - huviringid ja muud sündmused
 5. Meeldetuletused
-Äpp saadab teavitusi lähenevate tähtaegade kohta
-Kasutaja saab seadistada meeldetuletuste aega
-Eesmärk: vältida viimase hetke avastamist
+- Äpp saadab teavitusi lähenevate tähtaegade kohta
+- Kasutaja saab seadistada meeldetuletuste aega
+- Eesmärk: vältida viimase hetke avastamist
 6. Õppimise toetamine
-Kasutaja saab luua õppimiseks digitaalseid flashcarde, valikvastustega küsimustikke
-Sedeleid saab läbi vaadata ja korrata
-Toetab kontrolltöödeks valmistumist
+- Kasutaja saab luua õppimiseks digitaalseid flashcarde, valikvastustega küsimustikke
+- Sedeleid saab läbi vaadata ja korrata
+- Toetab kontrolltöödeks valmistumist
 7. Lihtne ja kiire kasutus
-Äpp peab olema lihtne ja intuitiivne
-Oluline info peab olema kiiresti leitav
-Sobib igapäevaseks kasutamiseks ilma lisapingutuseta
+- Äpp peab olema lihtne ja intuitiivne
+- Oluline info peab olema kiiresti leitav
+- Sobib igapäevaseks kasutamiseks ilma lisapingutuseta
 8. Info koondamine ühte kohta
-Kõik õppimisega seotud info on ühes keskkonnas:
-kodutööd, tähtajad
-tunniplaan, kalender
-ise koostatud õppematerjalid
+- Kõik õppimisega seotud info on ühes keskkonnas:
+        - kodutööd, tähtajad
+        - tunniplaan, kalender
+        - ise koostatud õppematerjalid
