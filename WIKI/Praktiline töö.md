@@ -1,6 +1,4 @@
 # Hetkeolukorra kaardistus
-
-Hetkeolukorra kaardistus
 Olemasolevad rakendused katavad üksikuid funktsioone (nt planeerimine või märkmete tegemine), kuid puudub lihtne ja õpilasele suunatud lahendus, mis koondaks automaatselt kooliinfo, ajaplaneerimise ja õppimise ühte keskkonda.
 | Arendusnõue | MyStudyLife | Notion |
 |---|---|---|
@@ -14,24 +12,41 @@ Olemasolevad rakendused katavad üksikuid funktsioone (nt planeerimine või mär
 | 8. Kõik ühes kohas | ⚠️ osaliselt | ✔️ olemas |
 
 
-**Sprinte on digiloovtöö jooksul neli:**  
-1. Teooriaga tutvumine, läbitöötamine ning teoreetilise osa koostamine
-2. Persoonad, stsenaariumid ja nende kinnitamine, prototüübi loomine Lo-FI
-3. Hi-Fi prototüübi loomine, lahenduse katsetamine
-4. HI-FI valmis prototüüp, ettevalmistus kaitsmiseks, kokkuvõtete tegemine
-
-Loe rohkem sprintide kohta [Digiloovtöö õpikust](https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/sprindi-moiste-ja-selle-koht-digiloovtoos/)  
-Lisaks on sul alati võimalus toetuda [õpilase juhendile](../juhendid/juhend-õpilasele.md)
-
-## Kuidas seda faili kasutada?
-
-- pane igale sprindile nimi või number;
-- kirjelda lühidalt, mis on selle sprindi eesmärk;
-- lisa peamised ülesanded;
-- sprindi lõpus kirjuta, mis sai tehtud ja mis jäi pooleli.
-
-## Sprint 1
-
-### Periood
-- Algus: 01.10.2026
-- Lõpp: 30.11.2026
+# Arendusnõuded
+1. Andmete automaatne sünkroniseerimine
+- Äpp peab tooma automaatselt andmed Stuudiumist
+- Kuvatakse kodutööd, tähtajad ja õpetajate lisatud info
+- Kasutaja ei pea andmeid käsitsi sisestama
+2. Kodutööde haldamine (Kanban vaade). Kodutööd peavad olema jaotatud kategooriatesse:
+    - alustamata
+    - pooleli
+    - tehtud
+- Kasutaja saab ülesandeid liigutada ühest staatusest teise, sh. kuvatakse iga ülesande tähtaeg
+3. Ühtne ülevaade (dashboard)
+- Avalehel kuvatakse:
+    - lähenevad tähtajad
+    - kõige olulisemad ülesanded
+- Kasutaja saab kiiresti aru, mida peab tegema
+4. Kalender ja tunniplaan
+Äpp kuvab tunniplaani
+Kalender koondab:
+kodutööd
+tunnid
+huviringid ja muud sündmused
+5. Meeldetuletused
+Äpp saadab teavitusi lähenevate tähtaegade kohta
+Kasutaja saab seadistada meeldetuletuste aega
+Eesmärk: vältida viimase hetke avastamist
+6. Õppimise toetamine
+Kasutaja saab luua õppimiseks digitaalseid flashcarde, valikvastustega küsimustikke
+Sedeleid saab läbi vaadata ja korrata
+Toetab kontrolltöödeks valmistumist
+7. Lihtne ja kiire kasutus
+Äpp peab olema lihtne ja intuitiivne
+Oluline info peab olema kiiresti leitav
+Sobib igapäevaseks kasutamiseks ilma lisapingutuseta
+8. Info koondamine ühte kohta
+Kõik õppimisega seotud info on ühes keskkonnas:
+kodutööd, tähtajad
+tunniplaan, kalender
+ise koostatud õppematerjalid
