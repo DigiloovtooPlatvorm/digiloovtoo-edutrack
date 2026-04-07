@@ -5,12 +5,12 @@ Vajadusel muuda tabelit töö käigus.
 
 | Etapp | Mida selles etapis tehakse? | Kestvus |
 |---|---|---|
-| Etapp 1 |  |  |
-| Etapp 2 |  |  |
-| Etapp 3 |  |  |
-| Etapp 4 |  |  |
-| Etapp 5 |  |  |
-| Kokku |  |  |
+| Etapp 1 | Analüüs ja ideede kogumine | 2 kuud |
+| Etapp 2 | Disain ja Lo-Fi prototüüp | 2 kuud |
+| Etapp 3 | Hi-Fi prototüüp ja testimine | 2 kuud |
+| Etapp 4 | Hindamine ja kaitsmiseks valmistumine | 1,5 kuud |
+| Etapp 5 | Kaitsmine | 1 päev |
+| Kokku |  | circa 8 kuud |
 
 ## Näited võimalikest etappidest
 
