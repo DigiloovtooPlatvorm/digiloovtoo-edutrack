@@ -1,3 +1,2 @@
 # Esitlus kaitsmiseks
-Link esitlusele: https://canva.link/2nqf56ut0zd5xsw 
-Plakat: [asub siin](WIKI/Probleem.png)
+Plakat: [asub siin](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/115fb87d04e817a78d596388d8f6a7098039932d/WIKI/Probleem.png))
