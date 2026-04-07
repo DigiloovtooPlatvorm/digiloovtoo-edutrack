@@ -52,7 +52,8 @@ Olemasolevad rakendused katavad üksikuid funktsioone (nt planeerimine või mär
         - ise koostatud õppematerjalid
 
 # Lo-Fi protüüp paberil
-![Lo-Fi 1](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/84ef5890b14f32d76eb10028c196c0f3f9bd6555/WIKI/Lo-Fi%202.png) ja ![Lo-Fi 2]>(https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/1343c6a8378c938899e07330590e7afbc63e23b0/WIKI/Lo-Fi1.png)
+![Lo-Fi 1](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/84ef5890b14f32d76eb10028c196c0f3f9bd6555/WIKI/Lo-Fi%202.png) ja 
+![Lo-Fi 2](https://github.com/DigiloovtooPlatvorm/digiloovtoo-edutrack/blob/1343c6a8378c938899e07330590e7afbc63e23b0/WIKI/Lo-Fi1.png)
 
 ## Kasutajatelt küsitud tagasiside
 Kasutajateks olid 7.–9. klassi õpilased.
