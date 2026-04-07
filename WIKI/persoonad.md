@@ -40,26 +40,36 @@ Tahab saada häid hindeid ja olla koolis edukas.
 
 ### Pilt
 
-<img width="300" height="1536" alt="ChatGPT Image Apr 6, 2026, 06_23_49 PM" src="[Uploading User Persona Worksheet in White Olive Green Style.html…]()" />
+
 
 
 ## Persoona 2
 
 ### Nimi
+Karl Rolf Kuu
 
 ### Vanus
+15
 
 ### Taust
+9.klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
 
 ### Vajadused
+Vajab keskkonda, mis toetaks tema ajaplaneerimist ja õpinguid 9. klassis.
 
-### Ootused
+### Ootused, eesmärgid
+Soovib teha koolitööd võimalikult lihtsalt ja kiiresti, hoida ülevaadet tähtsamatest ülesannetest ning vältida olukorda, kus kõik tööd kuhjuvad.
 
 ### Probleemid
+- ei taha kulutada aega planeerimisele
+- kardab, et jääb tähtsad asjad tegemata
+- tunneb, et tal puudub kontroll oma koolitöö üle
 
 ### Motivatsioon
+Tahab edukalt lõpetada põhikooli.
 
 ### Tsitaat
+"9. klassis on nii palju asju, mida peab meeles pidama või milleks valmistuda. Kõik info igalpool laiali- tahaks saada selgust."
 
 ### Pilt
 
