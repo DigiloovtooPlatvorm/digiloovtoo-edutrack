@@ -64,17 +64,17 @@ Arendusidee sõnastamine on oluline, et kogu projekt oleks selge eesmärgiga ja 
 - Info on lisatud Wiki lehele
 
 ### Sub-issues
-- **Küsitlus õpilaste seas**
-  Tegevused:
+- **2.1. Küsitlus õpilaste seas**
+  **Tegevused:**
       - Koostada küsitluse küsimused (nt õppimise planeerimise harjumused, raskused, kasutatavad vahendid)
       - Viia küsitlus läbi õpilaste seasKoguda ja koondada vastused
       - Analüüsida tulemusi (peamised probleemid ja vajadused)
       - Sõnastada järeldused (mida kasutajad tegelikult vajavad)
       - Dokumenteerida tulemused Wiki lehel
-   Vajalikkus:
+   **Vajalikkus:**
       - Õpilaste vajaduste kaardistamine aitab mõista, millised probleemid ja ootused neil õppimise planeerimisel on. See annab sisendi lahenduse arendamiseks, et loodav digilahendus vastaks tegelikele kasutajate vajadustele, mitte eeldustele. Samuti aitab see vältida valede probleemide lahendamist.
-- **Olemasolevate lahenduste analüüsimine**
-  Tegevused:
+- **2.2. Olemasolevate lahenduste analüüsimine**
+  **Tegevused:**
       - Otsida ja valida 2–4 õppimise planeerimise äppi
       - Katsetada valitud äppe kasutaja vaates
       - Kirjeldada iga äpi peamised funktsioonid
@@ -83,7 +83,7 @@ Arendusidee sõnastamine on oluline, et kogu projekt oleks selge eesmärgiga ja 
       - Võrrelda äppe omavahel
       - Sõnastada järeldused (mida oma lahenduses kasutada või vältida)
       - Dokumenteerida analüüs Wiki lehel
-   Vajalikkus:
+   **Vajalikkus:**
       - Olemasolevate lahenduste analüüsimine aitab mõista, millised funktsioonid ja lahendused juba turul olemas on. See aitab vältida sama asja uuesti loomist ning annab ideid, mida teha paremini või teisiti. Samuti aitab see selgitada, millised on teiste rakenduste tugevused ja nõrkused.
 
 
@@ -191,9 +191,9 @@ Paberprototüüp võimaldab kiiresti ja lihtsasti visualiseerida äpi ülesehitu
 - Info on lisatud Wiki lehele
 
 ### Sub-issues
-- 6.1. Esialgsele prototüübile tagasiside küsimine
-      Vajalikkus: Kasutajatelt tagasiside küsimine aitab hinnata, kas loodud lahendus on arusaadav ja vastab tegelikele vajadustele. Varajane testimine võimaldab avastada puudusi enne digitaalse prototüübi loomist ning teha vajalikud parandused väiksema ajakuluga.
-      Tegevused:
+- **6.1. Esialgsele prototüübile tagasiside küsimine**
+      **Vajalikkus:** Kasutajatelt tagasiside küsimine aitab hinnata, kas loodud lahendus on arusaadav ja vastab tegelikele vajadustele. Varajane testimine võimaldab avastada puudusi enne digitaalse prototüübi loomist ning teha vajalikud parandused väiksema ajakuluga.
+      **Tegevused:**
         - Näidata paberprototüüpi sihtrühma kasutajatele
         - Esitada suunavaid küsimusi (nt kas on arusaadav, mis mida teeb)
         - Koguda kasutajate tagasiside (märkmed, kommentaarid)
@@ -231,8 +231,8 @@ Hi-Fi (high-fidelity) prototüüp võimaldab luua visuaalselt realistliku ja int
 
 ### Sub-issues
 - **7.1. Uurida sobivaid keskkondi HI-FI prototüübi loomiseks**
-      - Vajalikkus: Sobiva tööriista valimine on oluline, et Hi-Fi prototüübi loomine oleks võimalikult sujuv ja tulemus kvaliteetne. Erinevad keskkonnad pakuvad erinevaid võimalusi (nt koostöö, prototüüpimine, tasuta kasutus), seega aitab nende võrdlemine valida projekti jaoks kõige sobivama lahenduse.
-      - Tegevused:
+      - **Vajalikkus:** Sobiva tööriista valimine on oluline, et Hi-Fi prototüübi loomine oleks võimalikult sujuv ja tulemus kvaliteetne. Erinevad keskkonnad pakuvad erinevaid võimalusi (nt koostöö, prototüüpimine, tasuta kasutus), seega aitab nende võrdlemine valida projekti jaoks kõige sobivama lahenduse.
+      - **Tegevused:**
           - Otsida erinevaid prototüüpimise keskkondi (nt Figma, Penpot jms)
           - Tutvuda keskkondade võimalustega
           - Katsetada vähemalt 1–2 keskkonda
@@ -241,8 +241,8 @@ Hi-Fi (high-fidelity) prototüüp võimaldab luua visuaalselt realistliku ja int
           - Põhjendada valikut
           - Dokumenteerida tulemused Wiki lehel
 - **7.2. Luua HI-FI prototüüp (nt Figma või muu tööriist)**
-      - Vajalikkus: Hi-Fi prototüübi loomine võimaldab viia idee visuaalselt ja funktsionaalselt realistlikule tasemele. See aitab paremini hinnata kasutajakogemust, testida lahenduse loogikat ning valmistuda nii arenduseks kui ka esitluseks.
-      - Tegevused:
+      - **Vajalikkus:** Hi-Fi prototüübi loomine võimaldab viia idee visuaalselt ja funktsionaalselt realistlikule tasemele. See aitab paremini hinnata kasutajakogemust, testida lahenduse loogikat ning valmistuda nii arenduseks kui ka esitluseks.
+      - **Tegevused:**
           - Luua digitaalne Hi-Fi prototüüp (nt Figma või muu tööriista abil)
           - Kujundada äpi visuaalne stiil (värvid, fondid, paigutus)
           - Luua peamised vaated (nt avaleht, töölaud, kalender)
@@ -251,8 +251,8 @@ Hi-Fi (high-fidelity) prototüüp võimaldab luua visuaalselt realistliku ja int
           - Teha vajadusel parandused
           - Lisada prototüübi link Wiki lehele
 - **7.3. Hi-Fi prototüübile tagasiside küsimine**
-      - Vajalikkus: Hi-Fi prototüübi testimine aitab hinnata, kui hästi loodud lahendus vastab kasutajate ootustele ja vajadustele. See võimaldab avastada kasutusmugavuse probleeme, loogikavigu ja arusaamatuid kohti enne lõpliku lahenduse valmimist.
-      - Tegevused:
+      - **Vajalikkus:** Hi-Fi prototüübi testimine aitab hinnata, kui hästi loodud lahendus vastab kasutajate ootustele ja vajadustele. See võimaldab avastada kasutusmugavuse probleeme, loogikavigu ja arusaamatuid kohti enne lõpliku lahenduse valmimist.
+      - **Tegevused:**
           - Valida sihtrühma kasutajad testimiseks
           - Esitleda neile Hi-Fi prototüüpi
           - Paluda kasutajatel täita konkreetsed ülesanded prototüübis
@@ -262,8 +262,8 @@ Hi-Fi (high-fidelity) prototüüp võimaldab luua visuaalselt realistliku ja int
           - Tuvastada peamised probleemid ja parenduskohad
           - Dokumenteerida tulemused Wiki lehel
 - **7.4. Tagasiside põhjal vajalike paranduste tegemine**
-      - Vajalikkus: Tagasiside põhjal paranduste tegemine aitab täiustada loodud lahendust ning viia see paremini vastavusse kasutajate vajaduste ja ootustega. See etapp on oluline, et parandada kasutusmugavust, loogikat ja funktsionaalsust enne lõpliku lahenduse valmimist.
-      - Tegevused:
+      - **Vajalikkus:** Tagasiside põhjal paranduste tegemine aitab täiustada loodud lahendust ning viia see paremini vastavusse kasutajate vajaduste ja ootustega. See etapp on oluline, et parandada kasutusmugavust, loogikat ja funktsionaalsust enne lõpliku lahenduse valmimist.
+      - **Tegevused:**
           - Vaadata üle kogutud kasutajate tagasiside
           - Tuvastada peamised probleemid ja parenduskohad
           - Prioriseerida vajalikud muudatused
@@ -300,8 +300,8 @@ Lõplik Hi-Fi prototüüp koondab kõik tehtud arendused ja parandused ühtseks 
 
 ### Sub-issues
 - **8.1. Prototüübi vastavuse kontroll nõuete analüüsile**
-      - Vajalikkus: Prototüübi vastavuse kontroll aitab veenduda, et loodud lahendus täidab kõik varasemalt sõnastatud funktsionaalsed nõuded. See tagab, et arendus ei ole kaldunud algsest eesmärgist kõrvale ning et lahendus vastab kasutajate vajadustele.
-      - Tegevused:
+      - **Vajalikkus:** Prototüübi vastavuse kontroll aitab veenduda, et loodud lahendus täidab kõik varasemalt sõnastatud funktsionaalsed nõuded. See tagab, et arendus ei ole kaldunud algsest eesmärgist kõrvale ning et lahendus vastab kasutajate vajadustele.
+      - **Tegevused:**
           - Võtta aluseks funktsionaalsete nõuete tabel
           - Võrrelda iga nõuet prototüübi lahendusega
           - Kontrollida, kas kõik nõuded on kaetud
@@ -310,8 +310,8 @@ Lõplik Hi-Fi prototüüp koondab kõik tehtud arendused ja parandused ühtseks 
           - Vajadusel täiendada prototüüpi
           - Dokumenteerida kontrolli tulemused Wiki lehel
 - **8.2. Hinnata lahenduse toimivust ja kasutusmugavust**
-      - Vajalikkus: Lahenduse toimivuse ja kasutusmugavuse hindamine aitab mõista, kui hästi loodud prototüüp töötab ning kui lihtne ja loogiline on seda kasutada. See annab ülevaate, kas kasutaja saab oma eesmärgid lahendusega mugavalt täidetud ning aitab tuvastada viimased parenduskohad enne projekti lõppu.
-      - Tegevused:
+      - **Vajalikkus:** Lahenduse toimivuse ja kasutusmugavuse hindamine aitab mõista, kui hästi loodud prototüüp töötab ning kui lihtne ja loogiline on seda kasutada. See annab ülevaate, kas kasutaja saab oma eesmärgid lahendusega mugavalt täidetud ning aitab tuvastada viimased parenduskohad enne projekti lõppu.
+      - **Tegevused:**
           - Testida prototüüpi kasutaja vaates
           - Kontrollida, kas kõik funktsioonid toimivad loogiliselt
           - Hinnata kasutajaliidese arusaadavust ja lihtsust
@@ -320,8 +320,8 @@ Lõplik Hi-Fi prototüüp koondab kõik tehtud arendused ja parandused ühtseks 
           - Tuvastada viimased probleemid ja parenduskohad
           - Dokumenteerida tulemused Wiki lehel
 - **8.3. Järelduste ja ettepanekute koostamine**
-      - Vajalikkus: Järelduste ja ettepanekute koostamine aitab kokku võtta projekti peamised tulemused ning hinnata, kui hästi eesmärgid täideti. See võimaldab reflekteerida tehtud tööd, tuua välja tugevused ja kitsaskohad ning pakkuda ideid, kuidas lahendust edasi arendada.
-      - Tegevused:
+      - **Vajalikkus:** Järelduste ja ettepanekute koostamine aitab kokku võtta projekti peamised tulemused ning hinnata, kui hästi eesmärgid täideti. See võimaldab reflekteerida tehtud tööd, tuua välja tugevused ja kitsaskohad ning pakkuda ideid, kuidas lahendust edasi arendada.
+      - **Tegevused:**
           - Analüüsida kogu projekti käiku ja tulemusi
           - Sõnastada peamised järeldused (mis toimis hästi, mis mitte)
           - Tuua välja lahenduse tugevused ja nõrkused
