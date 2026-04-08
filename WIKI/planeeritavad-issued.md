@@ -67,24 +67,24 @@ Arendusidee sõnastamine on oluline, et kogu projekt oleks selge eesmärgiga ja 
 - **2.1. Küsitlus õpilaste seas.**
   **Tegevused:**
   - Koostada küsitluse küsimused (nt õppimise planeerimise harjumused, raskused, kasutatavad vahendid)
-      - Viia küsitlus läbi õpilaste seasKoguda ja koondada vastused
-      - Analüüsida tulemusi (peamised probleemid ja vajadused)
-      - Sõnastada järeldused (mida kasutajad tegelikult vajavad)
-      - Dokumenteerida tulemused Wiki lehel
+  - Viia küsitlus läbi õpilaste seasKoguda ja koondada vastused
+  - Analüüsida tulemusi (peamised probleemid ja vajadused)
+  - Sõnastada järeldused (mida kasutajad tegelikult vajavad)
+  - Dokumenteerida tulemused Wiki lehel
    **Vajalikkus:**
-      - Õpilaste vajaduste kaardistamine aitab mõista, millised probleemid ja ootused neil õppimise planeerimisel on. See annab sisendi lahenduse arendamiseks, et loodav digilahendus vastaks tegelikele kasutajate vajadustele, mitte eeldustele. Samuti aitab see vältida valede probleemide lahendamist.
+  - Õpilaste vajaduste kaardistamine aitab mõista, millised probleemid ja ootused neil õppimise planeerimisel on. See annab sisendi lahenduse arendamiseks, et loodav digilahendus vastaks tegelikele kasutajate vajadustele, mitte eeldustele. Samuti aitab see vältida valede probleemide lahendamist.
 - **2.2. Olemasolevate lahenduste analüüsimine.**
   **Tegevused:**
-      - Otsida ja valida 2–4 õppimise planeerimise äppi
-      - Katsetada valitud äppe kasutaja vaates
-      - Kirjeldada iga äpi peamised funktsioonid
-      - Tuua välja tugevused (mis töötab hästi)
-      - Tuua välja nõrkused (mis on puudu või ebamugav)
-      - Võrrelda äppe omavahel
-      - Sõnastada järeldused (mida oma lahenduses kasutada või vältida)
-      - Dokumenteerida analüüs Wiki lehel
+  - Otsida ja valida 2–4 õppimise planeerimise äppi
+  - Katsetada valitud äppe kasutaja vaates
+  - Kirjeldada iga äpi peamised funktsioonid
+  - Tuua välja tugevused (mis töötab hästi)
+  - Tuua välja nõrkused (mis on puudu või ebamugav)
+  - Võrrelda äppe omavahel
+  - Sõnastada järeldused (mida oma lahenduses kasutada või vältida)
+  - Dokumenteerida analüüs Wiki lehel
    **Vajalikkus:**
-      - Olemasolevate lahenduste analüüsimine aitab mõista, millised funktsioonid ja lahendused juba turul olemas on. See aitab vältida sama asja uuesti loomist ning annab ideid, mida teha paremini või teisiti. Samuti aitab see selgitada, millised on teiste rakenduste tugevused ja nõrkused.
+  - Olemasolevate lahenduste analüüsimine aitab mõista, millised funktsioonid ja lahendused juba turul olemas on. See aitab vältida sama asja uuesti loomist ning annab ideid, mida teha paremini või teisiti. Samuti aitab see selgitada, millised on teiste rakenduste tugevused ja nõrkused.
 
 
 ## Issue 3
