@@ -66,7 +66,7 @@ Arendusidee sõnastamine on oluline, et kogu projekt oleks selge eesmärgiga ja 
 ### Sub-issues
 - **2.1. Küsitlus õpilaste seas.**
   **Tegevused:**
-      - Koostada küsitluse küsimused (nt õppimise planeerimise harjumused, raskused, kasutatavad vahendid)
+  - Koostada küsitluse küsimused (nt õppimise planeerimise harjumused, raskused, kasutatavad vahendid)
       - Viia küsitlus läbi õpilaste seasKoguda ja koondada vastused
       - Analüüsida tulemusi (peamised probleemid ja vajadused)
       - Sõnastada järeldused (mida kasutajad tegelikult vajavad)
