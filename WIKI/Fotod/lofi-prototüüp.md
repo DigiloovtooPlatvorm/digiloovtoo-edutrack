@@ -13,16 +13,16 @@ Kasutajateks olid 7.–9. klassi õpilased.
 3. Mis jäi segaseks või arusaamatuks?
 
 Funktsioonide kohta:
- 4. Kas kodutööde list ja kanban-vaade on sinu jaoks loogilised?
- 5. Kas kalendri vaade (tunniplaan + sündmused) on kasulik?
- 6. Kas automaatne info toomine Stuudiumist oleks sinu jaoks vajalik?  
+4. Kas kodutööde list ja kanban-vaade on sinu jaoks loogilised?
+5. Kas kalendri vaade (tunniplaan + sündmused) on kasulik?
+6. Kas automaatne info toomine Stuudiumist oleks sinu jaoks vajalik?  
 
  
 Õppimise kohta:
- 7. Kas kasutaksid äpis olevat flashcardide (sedeleid) funktsiooni?
- 8. Mis aitaks sul paremini õppida või meelde jätta?
+7. Kas kasutaksid äpis olevat flashcardide (sedeleid) funktsiooni?
+8. Mis aitaks sul paremini õppida või meelde jätta?
 
  
 Parendusettepanekud:
- 9. Mis funktsioon võiks veel äpis olla?
- 10. Mis tuleks kindlasti muuta või paremaks teha?
+9. Mis funktsioon võiks veel äpis olla?
+10. Mis tuleks kindlasti muuta või paremaks teha?
