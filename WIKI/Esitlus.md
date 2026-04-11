@@ -1,4 +1,4 @@
-<img width="830" height="909" alt="image" src="https://github.com/user-attachments/assets/1a36348f-e600-4bbe-a9a7-933b9a218a19" /># Esitlus kaitsmiseks
+# Esitlus kaitmiseks
 
 <img width="830" height="909" alt="Screenshot 2026-04-11 130701" src="https://github.com/user-attachments/assets/4f00f8a4-2f73-418e-90a6-630371131595" />
 
