@@ -7,22 +7,21 @@
 ## Kasutajatelt tagasiside kogumise küsimused
 Kasutajateks olid 7.–9. klassi õpilased.  
 
-Üldised küsimused:
-1. Kas äpp tundub sulle arusaadav ja lihtne kasutada? Miks?
-2. Mis sulle äpi juures kõige rohkem meeldib?
-3. Mis jäi segaseks või arusaamatuks?
+**Üldised küsimused:**
+- Kas äpp tundub sulle arusaadav ja lihtne kasutada? Miks?
+- Mis sulle äpi juures kõige rohkem meeldib?
+- Mis jäi segaseks või arusaamatuks?
 
-Funktsioonide kohta:
-4. Kas kodutööde list ja kanban-vaade on sinu jaoks loogilised?
-5. Kas kalendri vaade (tunniplaan + sündmused) on kasulik?
-6. Kas automaatne info toomine Stuudiumist oleks sinu jaoks vajalik?  
-
- 
-Õppimise kohta:
-7. Kas kasutaksid äpis olevat flashcardide (sedeleid) funktsiooni?
-8. Mis aitaks sul paremini õppida või meelde jätta?
+**Funktsioonide kohta:**
+- Kas kodutööde list ja kanban-vaade on sinu jaoks loogilised?
+- Kas kalendri vaade (tunniplaan + sündmused) on kasulik?
+- Kas automaatne info toomine Stuudiumist oleks sinu jaoks vajalik?  
 
  
-Parendusettepanekud:
-9. Mis funktsioon võiks veel äpis olla?
-10. Mis tuleks kindlasti muuta või paremaks teha?
+**Õppimise kohta:**
+- Kas kasutaksid äpis olevat flashcardide (sedeleid) funktsiooni?
+- Mis aitaks sul paremini õppida või meelde jätta?
+
+**Parendusettepanekud:**
+- Mis funktsioon võiks veel äpis olla?
+- Mis tuleks kindlasti muuta või paremaks teha?
