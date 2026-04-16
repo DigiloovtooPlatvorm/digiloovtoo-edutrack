@@ -2,10 +2,10 @@
 
 See repositoorium on GitHubi mall digiloovtöö jaoks.  
 Malli eesmärk on anda õpilastele ja juhendajatele kohe kasutatav tööruum, kus on olemas:
-- projekti põhidokumendid,
-- juhendid,
-- issue mallid,
-- töö planeerimise ja kokkuvõtete failid.
+- projekti põhidokumendid
+- juhendid
+- issue mallid
+- töö planeerimise ja kokkuvõtete failid
 
 ## Milleks see mall on?
 
