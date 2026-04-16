@@ -4,6 +4,7 @@ Selles failis saate võtta kokku oma sprintide järgsed retrospektiivid ja toimu
 
 ## Vahekokkuvõte 1
 **Periood**: 01.10.2026 – 30.11.2026
+
 **Peamised tehtud tööd (issue’d)**:
 - Issue 1: Projektirühma moodustamine ja rollide jagamine
 - Issue 2: Projekti arendusidee sõnastamine
@@ -29,6 +30,7 @@ Sprint oli edukas, kuna suudeti selgelt sõnastada probleem ja eesmärk. Küsitl
 
 ## Vahekokkuvõte 2
 **Periood**: 01.12.2026 – 31.01.2027
+
 **Peamised tehtud tööd (issue’d)**:
 - Issue 4: Nõuete analüüsi koostamine
 - Issue 6: Lo-Fi prototüübi loomine
