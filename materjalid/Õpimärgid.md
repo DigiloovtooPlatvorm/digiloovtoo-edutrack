@@ -1,32 +1,23 @@
-#Õpimärgid
+# Õpimärgid
 
-##**Kuidas õpimärkide süsteem töötab?**
+## **Kuidas õpimärkide süsteem töötab?**
 Teie digiloovtöö hinne kujuneb nelja õpimärgi põhjal. Iga õpimärk vastab ühele projekti etapile (sprintile) ning näitab, kui hästi olete selle etapi eesmärgid saavutanud.
 
 **See tähendab:**
 - iga õpimärk = üks oluline osa projektist
 - kõik õpimärgid kokku = teie lõpphinne
 
-##**Hindamise loogika**
+## **Hindamise loogika**
 Projekt jaguneb neljaks etapiks:
   - Vaheetapp I – Probleemi mõistmine ja analüüs
   - Vaheetapp II – Lahenduse disain (Lo-Fi)
   - Vaheetapp III – Lahenduse arendus ja testimine (Hi-Fi)
   - Vaheetapp IV – Hindamine ja esitlemine
+
 Iga etapp moodustab ligikaudu 25% kogu tööst. See tähendab, et iga õpimärk on oluline – ühest etapist ei piisa hea tulemuse saamiseks. Õpimärk antakse vastavalt sellele, kuidas olete etapi eesmärgid saavutanud. 
 
-###**Tasemete kirjeldused:**
+### **Tasemete kirjeldused:**
 - kuld (76%–100%) – kõik eesmärgid on täidetud väga hästi 
 - hõbe (51%–75%) – enamus eesmärke on saavutatud
 - pronks (26%–50%) – eesmärgid on osaliselt täidetud 
 - tina (0%–25%) – eesmärgid ei ole veel saavutatud ja töö vajab täiendamist
-
-###**Kuldne õpimärk antakse, kui:**
-- on sõnastanud selgelt ja arusaadavalt probleem
-- on määratletud sihtrühm ja toodud välja nende vajadused
-- on kasutatud vähemalt ühte andmekogumise meetodit (nt küsitlus)
-- on analüüsitud olemasolevaid lahendusi
-- on lootud vähemalt kaks persoonat ja stsenaariumi
-- on põhjendatud, miks valiti just see probleem ja lahendus
-- on kirjeldatud oma rolli ja panust meeskonnas
-- tööprotsess on dokumenteeritud Kanban tahvlil ning WIKIs
