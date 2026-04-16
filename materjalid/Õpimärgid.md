@@ -24,7 +24,9 @@ Iga etapp moodustab ligikaudu 25% kogu tööst. See tähendab, et iga õpimärk 
 
 
 
-# Õpimärgid vaheetapp I
+
+
+# Õpimärk vaheetapp I
 **Kuldne õpimärk antakse, kui:**
 - on sõnastanud selgelt ja arusaadavalt probleem
 - on määratletud sihtrühm ja toodud välja nende vajadused
@@ -35,7 +37,7 @@ Iga etapp moodustab ligikaudu 25% kogu tööst. See tähendab, et iga õpimärk 
 - on kirjeldatud oma rolli ja panust meeskonnas
 - tööprotsess on dokumenteeritud Kanban tahvlil ning WIKIs
 
-# Õpimärgid vaheetapp II
+# Õpimärk vaheetapp II
 **Kuldne õpimärk antakse, kui**:
 - on koostatud selge ja loogiline nõuete analüüs (seos kasutajavajadustega on nähtav)
 - on loodud Lo-Fi prototüüp, mis katab peamised vaated ja funktsioonid
@@ -46,7 +48,7 @@ Iga etapp moodustab ligikaudu 25% kogu tööst. See tähendab, et iga õpimärk 
 - on põhjendatud tehtud disainiotsused
 - tööprotsess on dokumenteeritud Kanban tahvlil ning WIKIs
 
-# Õpimärgid vaheetapp III
+# Õpimärk vaheetapp III
 **Kuldne õpimärk antakse, kui**:
 - on loodud toimiv ja loogiline Hi-Fi prototüüp (nt Figmas, Penpot vms)
 - kõik peamised vaated on olemas ja omavahel seotud
@@ -57,7 +59,7 @@ Iga etapp moodustab ligikaudu 25% kogu tööst. See tähendab, et iga õpimärk 
 - lahendus vastab eelnevalt sõnastatud nõuetele
 - tööprotsess on dokumenteeritud Kanban tahvlil ning WIKIs
 
-# Õpimärgid vaheetapp IV
+# Õpimärk vaheetapp IV
 **Kuldne õpimärk antakse, kui**:
 - on kontrollitud ja põhjendatud lahenduse vastavus probleemile ja eesmärgile
 - on hinnatud lahenduse kasutusmugavust ja toimivust
